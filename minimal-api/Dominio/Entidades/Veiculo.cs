@@ -22,6 +22,6 @@ namespace minimal_api.Dominio.Entidades
         public string Marca { get; set; } = default;
 
         [Required]
-        public int Perfil { get; set; } = default;
+        public int Ano { get; set; } = default;
     }
 }
