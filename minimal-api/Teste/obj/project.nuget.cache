@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B3HUNIcS1ZA=",
+  "dgSpecHash": "Z2TSvRtPxDg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\brula\\OneDrive\\Desktop\\MyProjects\\CSCourse\\minimal_api\\minimal-api\\teste\\Teste.csproj",
+  "projectFilePath": "C:\\Users\\brula\\OneDrive\\Desktop\\MyProjects\\CSCourse\\minimal_api\\minimal-api\\Teste\\Teste.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brula\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
     "C:\\Users\\brula\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\9.0.9\\microsoft.aspnetcore.authentication.jwtbearer.9.0.9.nupkg.sha512",
